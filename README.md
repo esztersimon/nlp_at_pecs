@@ -16,3 +16,11 @@ Simon Eszter, Vadász Noémi
 3. óra: Számítógépes morfológia -- [szlájdok](3_p_cs.pdf)
 
 4. óra: Korpuszlekérdezés -- [szlájdok](4_p_cs.pdf)
+
+5. óra: Korpuszépítés -- [szlájdok](5_p_cs.pdf)
+
+6. óra: Gépi tanulás [szlájdok](6_p_cs.pdf)
+
+7. óra: Neurális technikák [szlájdok](7_p_cs.pdf)
+
+8. óra: Elemzőláncok magyarra [szlájdok](8_p_cs.pdf)
